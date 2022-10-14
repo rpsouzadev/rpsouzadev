@@ -1,5 +1,5 @@
 ## Olá, eu sou RAFAEL SOUZA Desenvolvedor Front-end  😉
-<div align="center">
+<div>
   <a href="https://github.com/Muglly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muglly&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muglly&layout=compact&langs_count=7&theme=nightowl"/>
