@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-nextjs" width="40" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
   <img align="center" alt="Rafa-expo" width="40" src="https://mobiletech360.co/Apps/wp-content/uploads/2021/08/Expo-APK-v2.21.5-Download-150x150.png">
-  <img align="center" alt="Rafa-Vue" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+  <img align="center" alt="Rafa-Vue" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Rafa-Nuxt" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="Rafa-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
