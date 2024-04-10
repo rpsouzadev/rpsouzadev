@@ -1,23 +1,22 @@
-## Olá, eu sou RAFAEL SOUZA Desenvolvedor Front-end  😉
+## Olá, eu sou RAFAEL SOUZA Desenvolvedor Mobile  📱😉
 <div align="center">
   <a href="https://github.com/rpsouzadev">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=rpsouzadev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpsouzadev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+<br/>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-nextjs" width="40" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
-  <img align="center" alt="Rafa-expo" width="40" src="https://mobiletech360.co/Apps/wp-content/uploads/2021/08/Expo-APK-v2.21.5-Download-150x150.png">
-  <img align="center" alt="Rafa-Vue" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Rafa-Nuxt" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img align="center" alt="Rafa-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-styled-components" width="40" src="https://styled-components.com/atom.png">
-  <img align="center" alt="Rafa-tailwindcss" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+  <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<div>
   
 ##  
 
