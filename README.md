@@ -8,11 +8,9 @@
 <br/>
   
 <div style="display: inline_block" align="center">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
