@@ -13,7 +13,6 @@
   <img align="center" alt="Jetpack Compose" src="https://img.shields.io/badge/Jatepack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
   <img align="center" alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white">
-  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <div>
   
 ##  
